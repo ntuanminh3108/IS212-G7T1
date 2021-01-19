@@ -1,0 +1,162 @@
+{
+    "status": "error",
+    "num-record-loaded": [
+        {
+            "bid.csv": 23
+        },
+        {
+            "course.csv": 24
+        },
+        {
+            "course_completed.csv": 4
+        },
+        {
+            "prerequisite.csv": 8
+        },
+        {
+            "section.csv": 35
+        },
+        {
+            "student.csv": 26
+        }
+    ],
+    "error": [
+        {
+            "file": "student.csv",
+            "row": 2,
+            "message": [
+                "invalid userid"
+            ]
+        },
+        {
+            "file": "student.csv",
+            "row": 3,
+            "message": [
+                "invalid password"
+            ]
+        },
+        {
+            "file": "student.csv",
+            "row": 4,
+            "message": [
+                "invalid name"
+            ]
+        },
+        {
+            "file": "student.csv",
+            "row": 5,
+            "message": [
+                "invalid  e-dollar",
+                "invalid  e-dollar"
+            ]
+        },
+        {
+            "file": "student.csv",
+            "row": 6,
+            "message": [
+                "invalid userid",
+                "invalid password"
+            ]
+        },
+        {
+            "file": "student.csv",
+            "row": 7,
+            "message": [
+                "invalid userid",
+                "invalid name"
+            ]
+        },
+        {
+            "file": "student.csv",
+            "row": 8,
+            "message": [
+                "invalid userid",
+                "invalid  e-dollar",
+                "invalid  e-dollar"
+            ]
+        },
+        {
+            "file": "student.csv",
+            "row": 9,
+            "message": [
+                "invalid password",
+                "invalid name"
+            ]
+        },
+        {
+            "file": "student.csv",
+            "row": 10,
+            "message": [
+                "invalid  e-dollar",
+                "invalid  e-dollar",
+                "invalid password"
+            ]
+        },
+        {
+            "file": "student.csv",
+            "row": 11,
+            "message": [
+                "invalid  e-dollar",
+                "invalid  e-dollar",
+                "invalid name"
+            ]
+        },
+        {
+            "file": "student.csv",
+            "row": 12,
+            "message": [
+                "invalid userid",
+                "invalid password",
+                "invalid name"
+            ]
+        },
+        {
+            "file": "student.csv",
+            "row": 13,
+            "message": [
+                "invalid userid",
+                "invalid  e-dollar",
+                "invalid  e-dollar",
+                "invalid password"
+            ]
+        },
+        {
+            "file": "student.csv",
+            "row": 14,
+            "message": [
+                "invalid userid",
+                "invalid  e-dollar",
+                "invalid  e-dollar",
+                "invalid name"
+            ]
+        },
+        {
+            "file": "student.csv",
+            "row": 15,
+            "message": [
+                "invalid  e-dollar",
+                "invalid  e-dollar",
+                "invalid password",
+                "invalid name"
+            ]
+        },
+        {
+            "file": "student.csv",
+            "row": 16,
+            "message": [
+                "invalid userid",
+                "invalid  e-dollar",
+                "invalid  e-dollar",
+                "invalid password",
+                "invalid name"
+            ]
+        },
+        {
+            "file": "student.csv",
+            "row": 18,
+            "message": [
+                "duplicate userid"
+            ]
+        }
+    ]
+}

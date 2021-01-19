@@ -1,0 +1,523 @@
+{
+    "status": "error",
+    "num-record-loaded": [
+        {
+            "bid.csv": 0
+        },
+        {
+            "course.csv": 0
+        },
+        {
+            "course_completed.csv": 0
+        },
+        {
+            "prerequisite.csv": 0
+        },
+        {
+            "section.csv": 0
+        },
+        {
+            "student.csv": 26
+        }
+    ],
+    "error": [
+        {
+            "file": "section.csv",
+            "row": 2,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 3,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 4,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 5,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 6,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 7,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 8,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 9,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 10,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 11,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 12,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 13,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 14,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 15,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 16,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 17,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 18,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 19,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 20,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 21,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 22,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 23,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 24,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 25,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 26,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 27,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 28,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 29,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 30,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 31,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 32,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 33,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 34,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 35,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 36,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "prerequisite.csv",
+            "row": 2,
+            "message": [
+                "invalid course",
+                "invalid prerequisite"
+            ]
+        },
+        {
+            "file": "prerequisite.csv",
+            "row": 3,
+            "message": [
+                "invalid course",
+                "invalid prerequisite"
+            ]
+        },
+        {
+            "file": "prerequisite.csv",
+            "row": 4,
+            "message": [
+                "invalid course",
+                "invalid prerequisite"
+            ]
+        },
+        {
+            "file": "prerequisite.csv",
+            "row": 5,
+            "message": [
+                "invalid course",
+                "invalid prerequisite"
+            ]
+        },
+        {
+            "file": "prerequisite.csv",
+            "row": 6,
+            "message": [
+                "invalid course",
+                "invalid prerequisite"
+            ]
+        },
+        {
+            "file": "prerequisite.csv",
+            "row": 7,
+            "message": [
+                "invalid course",
+                "invalid prerequisite"
+            ]
+        },
+        {
+            "file": "prerequisite.csv",
+            "row": 8,
+            "message": [
+                "invalid course",
+                "invalid prerequisite"
+            ]
+        },
+        {
+            "file": "prerequisite.csv",
+            "row": 9,
+            "message": [
+                "invalid course",
+                "invalid prerequisite"
+            ]
+        },
+        {
+            "file": "course_completed.csv",
+            "row": 2,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "course_completed.csv",
+            "row": 3,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "course_completed.csv",
+            "row": 4,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "course_completed.csv",
+            "row": 5,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "bid.csv",
+            "row": 2,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "bid.csv",
+            "row": 3,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "bid.csv",
+            "row": 4,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "bid.csv",
+            "row": 5,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "bid.csv",
+            "row": 6,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "bid.csv",
+            "row": 7,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "bid.csv",
+            "row": 8,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "bid.csv",
+            "row": 9,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "bid.csv",
+            "row": 10,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "bid.csv",
+            "row": 11,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "bid.csv",
+            "row": 12,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "bid.csv",
+            "row": 13,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "bid.csv",
+            "row": 14,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "bid.csv",
+            "row": 15,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "bid.csv",
+            "row": 16,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "bid.csv",
+            "row": 17,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "bid.csv",
+            "row": 18,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "bid.csv",
+            "row": 19,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "bid.csv",
+            "row": 20,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "bid.csv",
+            "row": 21,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "bid.csv",
+            "row": 22,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "bid.csv",
+            "row": 23,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "bid.csv",
+            "row": 24,
+            "message": [
+                "invalid course"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1845 @@
+{
+    "status": "error",
+    "num-record-loaded": [
+        {
+            "bid.csv": 23
+        },
+        {
+            "course.csv": 24
+        },
+        {
+            "course_completed.csv": 4
+        },
+        {
+            "prerequisite.csv": 8
+        },
+        {
+            "section.csv": 35
+        },
+        {
+            "student.csv": 26
+        }
+    ],
+    "error": [
+        {
+            "file": "section.csv",
+            "row": 2,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 3,
+            "message": [
+                "invalid section"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 4,
+            "message": [
+                "invalid day"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 5,
+            "message": [
+                "invalid start"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 6,
+            "message": [
+                "invalid end"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 7,
+            "message": [
+                "invalid instructor"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 8,
+            "message": [
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 9,
+            "message": [
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 10,
+            "message": [
+                "invalid course",
+                "invalid section"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 11,
+            "message": [
+                "invalid course",
+                "invalid day"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 12,
+            "message": [
+                "invalid course",
+                "invalid start"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 13,
+            "message": [
+                "invalid course",
+                "invalid end"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 14,
+            "message": [
+                "invalid course",
+                "invalid instructor",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 15,
+            "message": [
+                "invalid course",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 16,
+            "message": [
+                "invalid course",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 17,
+            "message": [
+                "invalid section",
+                "invalid day"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 18,
+            "message": [
+                "invalid section",
+                "invalid start"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 19,
+            "message": [
+                "invalid section",
+                "invalid end"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 20,
+            "message": [
+                "invalid section",
+                "invalid instructor"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 21,
+            "message": [
+                "invalid section",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 22,
+            "message": [
+                "invalid section",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 23,
+            "message": [
+                "invalid day",
+                "invalid start"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 24,
+            "message": [
+                "invalid day",
+                "invalid end"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 25,
+            "message": [
+                "invalid day",
+                "invalid instructor"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 26,
+            "message": [
+                "invalid day",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 27,
+            "message": [
+                "invalid day",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 28,
+            "message": [
+                "invalid start",
+                "invalid end"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 29,
+            "message": [
+                "invalid start",
+                "invalid instructor"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 30,
+            "message": [
+                "invalid start",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 31,
+            "message": [
+                "invalid start",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 32,
+            "message": [
+                "invalid end",
+                "invalid instructor"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 33,
+            "message": [
+                "invalid end",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 34,
+            "message": [
+                "invalid end",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 35,
+            "message": [
+                "invalid instructor",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 36,
+            "message": [
+                "invalid instructor",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 37,
+            "message": [
+                "invalid venue",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 38,
+            "message": [
+                "invalid course",
+                "invalid section",
+                "invalid day"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 39,
+            "message": [
+                "invalid course",
+                "invalid section",
+                "invalid start"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 40,
+            "message": [
+                "invalid course",
+                "invalid section",
+                "invalid end"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 41,
+            "message": [
+                "invalid course",
+                "invalid section",
+                "invalid instructor"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 42,
+            "message": [
+                "invalid course",
+                "invalid section",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 43,
+            "message": [
+                "invalid course",
+                "invalid section",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 44,
+            "message": [
+                "invalid course",
+                "invalid day",
+                "invalid start"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 45,
+            "message": [
+                "invalid course",
+                "invalid day",
+                "invalid end"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 46,
+            "message": [
+                "invalid course",
+                "invalid day",
+                "invalid instructor"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 47,
+            "message": [
+                "invalid course",
+                "invalid day",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 48,
+            "message": [
+                "invalid course",
+                "invalid day",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 49,
+            "message": [
+                "invalid course",
+                "invalid start",
+                "invalid end"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 50,
+            "message": [
+                "invalid course",
+                "invalid start",
+                "invalid instructor"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 51,
+            "message": [
+                "invalid course",
+                "invalid start",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 52,
+            "message": [
+                "invalid course",
+                "invalid start",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 53,
+            "message": [
+                "invalid course",
+                "invalid end",
+                "invalid instructor"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 54,
+            "message": [
+                "invalid course",
+                "invalid end",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 55,
+            "message": [
+                "invalid course",
+                "invalid end",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 56,
+            "message": [
+                "invalid course",
+                "invalid instructor",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 57,
+            "message": [
+                "invalid course",
+                "invalid instructor",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 58,
+            "message": [
+                "invalid course",
+                "invalid venue",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 59,
+            "message": [
+                "invalid section",
+                "invalid day",
+                "invalid start"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 60,
+            "message": [
+                "invalid section",
+                "invalid day",
+                "invalid end"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 61,
+            "message": [
+                "invalid section",
+                "invalid day",
+                "invalid instructor"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 62,
+            "message": [
+                "invalid section",
+                "invalid day",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 63,
+            "message": [
+                "invalid section",
+                "invalid day",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 64,
+            "message": [
+                "invalid section",
+                "invalid start",
+                "invalid end"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 65,
+            "message": [
+                "invalid section",
+                "invalid start",
+                "invalid instructor"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 66,
+            "message": [
+                "invalid section",
+                "invalid start",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 67,
+            "message": [
+                "invalid section",
+                "invalid start",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 68,
+            "message": [
+                "invalid section",
+                "invalid end",
+                "invalid instructor"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 69,
+            "message": [
+                "invalid section",
+                "invalid end",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 70,
+            "message": [
+                "invalid section",
+                "invalid end",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 71,
+            "message": [
+                "invalid section",
+                "invalid instructor",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 72,
+            "message": [
+                "invalid section",
+                "invalid instructor",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 73,
+            "message": [
+                "invalid section",
+                "invalid venue",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 74,
+            "message": [
+                "invalid day",
+                "invalid start",
+                "invalid end"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 75,
+            "message": [
+                "invalid day",
+                "invalid start",
+                "invalid instructor"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 76,
+            "message": [
+                "invalid day",
+                "invalid start",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 77,
+            "message": [
+                "invalid day",
+                "invalid start",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 78,
+            "message": [
+                "invalid day",
+                "invalid end",
+                "invalid instructor"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 79,
+            "message": [
+                "invalid day",
+                "invalid end",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 80,
+            "message": [
+                "invalid day",
+                "invalid end",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 81,
+            "message": [
+                "invalid day",
+                "invalid instructor",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 82,
+            "message": [
+                "invalid day",
+                "invalid instructor",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 83,
+            "message": [
+                "invalid day",
+                "invalid venue",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 84,
+            "message": [
+                "invalid start",
+                "invalid end",
+                "invalid instructor"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 85,
+            "message": [
+                "invalid start",
+                "invalid end",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 86,
+            "message": [
+                "invalid start",
+                "invalid end",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 87,
+            "message": [
+                "invalid start",
+                "invalid instructor",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 88,
+            "message": [
+                "invalid start",
+                "invalid instructor",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 89,
+            "message": [
+                "invalid end",
+                "invalid instructor",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 90,
+            "message": [
+                "invalid end",
+                "invalid instructor",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 91,
+            "message": [
+                "invalid instructor",
+                "invalid venue",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 92,
+            "message": [
+                "invalid course",
+                "invalid section",
+                "invalid day",
+                "invalid start"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 93,
+            "message": [
+                "invalid course",
+                "invalid section",
+                "invalid day",
+                "invalid end"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 94,
+            "message": [
+                "invalid course",
+                "invalid section",
+                "invalid day",
+                "invalid instructor"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 95,
+            "message": [
+                "invalid course",
+                "invalid section",
+                "invalid day",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 96,
+            "message": [
+                "invalid course",
+                "invalid section",
+                "invalid day",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 97,
+            "message": [
+                "invalid course",
+                "invalid section",
+                "invalid start",
+                "invalid end"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 98,
+            "message": [
+                "invalid course",
+                "invalid section",
+                "invalid start",
+                "invalid instructor"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 99,
+            "message": [
+                "invalid course",
+                "invalid section",
+                "invalid start",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 100,
+            "message": [
+                "invalid course",
+                "invalid section",
+                "invalid start",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 101,
+            "message": [
+                "invalid course",
+                "invalid section",
+                "invalid end",
+                "invalid instructor"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 102,
+            "message": [
+                "invalid course",
+                "invalid section",
+                "invalid end",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 103,
+            "message": [
+                "invalid course",
+                "invalid section",
+                "invalid end",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 104,
+            "message": [
+                "invalid course",
+                "invalid section",
+                "invalid instructor",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 105,
+            "message": [
+                "invalid course",
+                "invalid section",
+                "invalid instructor",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 106,
+            "message": [
+                "invalid course",
+                "invalid section",
+                "invalid venue",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 107,
+            "message": [
+                "invalid course",
+                "invalid day",
+                "invalid start",
+                "invalid end"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 108,
+            "message": [
+                "invalid course",
+                "invalid day",
+                "invalid start",
+                "invalid instructor"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 109,
+            "message": [
+                "invalid course",
+                "invalid day",
+                "invalid start",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 110,
+            "message": [
+                "invalid course",
+                "invalid day",
+                "invalid start",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 111,
+            "message": [
+                "invalid course",
+                "invalid start",
+                "invalid end",
+                "invalid instructor"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 112,
+            "message": [
+                "invalid course",
+                "invalid start",
+                "invalid end",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 113,
+            "message": [
+                "invalid course",
+                "invalid start",
+                "invalid end",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 114,
+            "message": [
+                "invalid course",
+                "invalid end",
+                "invalid instructor",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 115,
+            "message": [
+                "invalid course",
+                "invalid end",
+                "invalid instructor",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 116,
+            "message": [
+                "invalid course",
+                "invalid instructor",
+                "invalid venue",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 117,
+            "message": [
+                "invalid section",
+                "invalid day",
+                "invalid start",
+                "invalid end"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 118,
+            "message": [
+                "invalid section",
+                "invalid day",
+                "invalid start",
+                "invalid instructor"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 119,
+            "message": [
+                "invalid section",
+                "invalid day",
+                "invalid start",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 120,
+            "message": [
+                "invalid section",
+                "invalid day",
+                "invalid start",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 121,
+            "message": [
+                "invalid section",
+                "invalid start",
+                "invalid end",
+                "invalid instructor"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 122,
+            "message": [
+                "invalid section",
+                "invalid start",
+                "invalid end",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 123,
+            "message": [
+                "invalid section",
+                "invalid start",
+                "invalid end",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 124,
+            "message": [
+                "invalid section",
+                "invalid end",
+                "invalid instructor",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 125,
+            "message": [
+                "invalid section",
+                "invalid end",
+                "invalid instructor",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 126,
+            "message": [
+                "invalid section",
+                "invalid instructor",
+                "invalid venue",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 127,
+            "message": [
+                "invalid day",
+                "invalid start",
+                "invalid end",
+                "invalid instructor"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 128,
+            "message": [
+                "invalid day",
+                "invalid start",
+                "invalid end",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 129,
+            "message": [
+                "invalid day",
+                "invalid start",
+                "invalid end",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 130,
+            "message": [
+                "invalid day",
+                "invalid start",
+                "invalid instructor",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 131,
+            "message": [
+                "invalid day",
+                "invalid end",
+                "invalid instructor",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 132,
+            "message": [
+                "invalid day",
+                "invalid instructor",
+                "invalid venue",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 133,
+            "message": [
+                "invalid day",
+                "invalid start",
+                "invalid instructor",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 134,
+            "message": [
+                "invalid start",
+                "invalid end",
+                "invalid instructor",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 135,
+            "message": [
+                "invalid start",
+                "invalid end",
+                "invalid venue",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 136,
+            "message": [
+                "invalid start",
+                "invalid instructor",
+                "invalid venue",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 137,
+            "message": [
+                "invalid end",
+                "invalid instructor",
+                "invalid venue",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 138,
+            "message": [
+                "invalid course",
+                "invalid section",
+                "invalid day",
+                "invalid start",
+                "invalid end"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 139,
+            "message": [
+                "invalid course",
+                "invalid section",
+                "invalid day",
+                "invalid start",
+                "invalid instructor"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 140,
+            "message": [
+                "invalid course",
+                "invalid section",
+                "invalid day",
+                "invalid start",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 141,
+            "message": [
+                "invalid course",
+                "invalid section",
+                "invalid day",
+                "invalid start",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 142,
+            "message": [
+                "invalid course",
+                "invalid section",
+                "invalid day",
+                "invalid end",
+                "invalid instructor"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 143,
+            "message": [
+                "invalid course",
+                "invalid section",
+                "invalid day",
+                "invalid end",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 144,
+            "message": [
+                "invalid course",
+                "invalid section",
+                "invalid day",
+                "invalid end",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 145,
+            "message": [
+                "invalid course",
+                "invalid section",
+                "invalid day",
+                "invalid instructor",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 146,
+            "message": [
+                "invalid course",
+                "invalid section",
+                "invalid day",
+                "invalid instructor",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 147,
+            "message": [
+                "invalid course",
+                "invalid section",
+                "invalid day",
+                "invalid venue",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 148,
+            "message": [
+                "invalid course",
+                "invalid day",
+                "invalid start",
+                "invalid end",
+                "invalid instructor"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 149,
+            "message": [
+                "invalid course",
+                "invalid day",
+                "invalid start",
+                "invalid end",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 150,
+            "message": [
+                "invalid course",
+                "invalid day",
+                "invalid start",
+                "invalid end",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 151,
+            "message": [
+                "invalid course",
+                "invalid start",
+                "invalid end",
+                "invalid instructor",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 152,
+            "message": [
+                "invalid course",
+                "invalid start",
+                "invalid end",
+                "invalid instructor",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 153,
+            "message": [
+                "invalid course",
+                "invalid end",
+                "invalid instructor",
+                "invalid venue",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 154,
+            "message": [
+                "invalid section",
+                "invalid day",
+                "invalid start",
+                "invalid end",
+                "invalid instructor"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 155,
+            "message": [
+                "invalid section",
+                "invalid day",
+                "invalid start",
+                "invalid end",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 156,
+            "message": [
+                "invalid section",
+                "invalid day",
+                "invalid start",
+                "invalid end",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 157,
+            "message": [
+                "invalid section",
+                "invalid day",
+                "invalid start",
+                "invalid instructor",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 158,
+            "message": [
+                "invalid section",
+                "invalid day",
+                "invalid start",
+                "invalid instructor",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 159,
+            "message": [
+                "invalid section",
+                "invalid day",
+                "invalid start",
+                "invalid venue",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 160,
+            "message": [
+                "invalid section",
+                "invalid day",
+                "invalid end",
+                "invalid instructor",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 161,
+            "message": [
+                "invalid section",
+                "invalid day",
+                "invalid end",
+                "invalid instructor",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 162,
+            "message": [
+                "invalid section",
+                "invalid day",
+                "invalid end",
+                "invalid venue",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 163,
+            "message": [
+                "invalid section",
+                "invalid start",
+                "invalid end",
+                "invalid instructor",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 164,
+            "message": [
+                "invalid section",
+                "invalid start",
+                "invalid end",
+                "invalid instructor",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 165,
+            "message": [
+                "invalid section",
+                "invalid start",
+                "invalid end",
+                "invalid venue",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 166,
+            "message": [
+                "invalid section",
+                "invalid end",
+                "invalid instructor",
+                "invalid venue",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 167,
+            "message": [
+                "invalid day",
+                "invalid start",
+                "invalid end",
+                "invalid instructor",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 168,
+            "message": [
+                "invalid day",
+                "invalid start",
+                "invalid end",
+                "invalid instructor",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 169,
+            "message": [
+                "invalid day",
+                "invalid start",
+                "invalid end",
+                "invalid instructor",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 170,
+            "message": [
+                "invalid start",
+                "invalid end",
+                "invalid instructor",
+                "invalid venue",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 171,
+            "message": [
+                "invalid course",
+                "invalid section",
+                "invalid day",
+                "invalid start",
+                "invalid end",
+                "invalid instructor"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 172,
+            "message": [
+                "invalid course",
+                "invalid section",
+                "invalid day",
+                "invalid start",
+                "invalid end",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 173,
+            "message": [
+                "invalid course",
+                "invalid section",
+                "invalid day",
+                "invalid start",
+                "invalid end",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 174,
+            "message": [
+                "invalid course",
+                "invalid section",
+                "invalid day",
+                "invalid start",
+                "invalid instructor",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 175,
+            "message": [
+                "invalid course",
+                "invalid section",
+                "invalid day",
+                "invalid start",
+                "invalid instructor",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 176,
+            "message": [
+                "invalid course",
+                "invalid section",
+                "invalid day",
+                "invalid start",
+                "invalid venue",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 177,
+            "message": [
+                "invalid section",
+                "invalid day",
+                "invalid start",
+                "invalid end",
+                "invalid instructor",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 178,
+            "message": [
+                "invalid section",
+                "invalid day",
+                "invalid start",
+                "invalid end",
+                "invalid instructor",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 179,
+            "message": [
+                "invalid section",
+                "invalid day",
+                "invalid start",
+                "invalid end",
+                "invalid venue",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 180,
+            "message": [
+                "invalid day",
+                "invalid start",
+                "invalid end",
+                "invalid instructor",
+                "invalid venue",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 181,
+            "message": [
+                "invalid course",
+                "invalid section",
+                "invalid day",
+                "invalid start",
+                "invalid end",
+                "invalid instructor",
+                "invalid venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 182,
+            "message": [
+                "invalid section",
+                "invalid day",
+                "invalid start",
+                "invalid end",
+                "invalid instructor",
+                "invalid venue",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 183,
+            "message": [
+                "invalid course",
+                "invalid day",
+                "invalid start",
+                "invalid end",
+                "invalid instructor",
+                "invalid venue",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 184,
+            "message": [
+                "invalid course",
+                "invalid section",
+                "invalid start",
+                "invalid end",
+                "invalid instructor",
+                "invalid venue",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "row": 185,
+            "message": [
+                "invalid course",
+                "invalid section",
+                "invalid day",
+                "invalid start",
+                "invalid end",
+                "invalid instructor",
+                "invalid venue",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "prerequisite.csv",
+            "row": 2,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "prerequisite.csv",
+            "row": 3,
+            "message": [
+                "invalid prerequisite"
+            ]
+        },
+        {
+            "file": "prerequisite.csv",
+            "row": 4,
+            "message": [
+                "invalid course",
+                "invalid prerequisite"
+            ]
+        },
+        {
+            "file": "course_completed.csv",
+            "row": 2,
+            "message": [
+                "invalid userid"
+            ]
+        },
+        {
+            "file": "course_completed.csv",
+            "row": 3,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "course_completed.csv",
+            "row": 4,
+            "message": [
+                "invalid userid",
+                "invalid course"
+            ]
+        }
+    ]
+}

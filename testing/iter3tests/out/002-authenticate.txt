@@ -1,0 +1,6 @@
+{
+    "status": "error",
+    "messages": [
+        "blank password"
+    ]
+}
